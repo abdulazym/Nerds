@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .wrapper{
     position: relative;
     width: 100%;
-    min-width: $containerWidth + 20px;
+    min-width: 1184px;
     min-height: 100%;
     overflow:hidden;//немного не понятно что делает 
 }
