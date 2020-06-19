@@ -55,6 +55,8 @@ body{
 header{
     padding-top: 49px;
     background-color: #eeeeee;
+    height: 100vh;
+    min-height: 650px;
     }
 
 .container{
